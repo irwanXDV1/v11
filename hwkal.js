@@ -21,31 +21,31 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 //=================================================//
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-global.youtube = 'https://youtube.com/c/HwModsWa857' // ubah aia
-global.ig = '@hikal857' // ubah aja
-global.email = 'denyp857@gmail.com'
+global.youtube = 'https://www.youtube.com/@nama5423' // ubah aia
+global.ig = '_' // ubah aja
+global.email = 'irwansyahahmadirwansyah@gmail.com'
 global.region = 'indonesia'
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'Dani Maker☆' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'Dani Maker☆' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'Dani Maker☆' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'Irwan' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'irwanbotz☆' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'irwanbotz☆' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6281251549899','6281348106274'] // ubah aja pake nomor lu
-global.premium = ['6281251549899','6281348106274'] // ubah aja pake nomor lu
-global.packname = 'Dani Maker☆' // ubah aja
-global.ownerr = ['Dani Maker☆'] // ubaha aja
-global.author = 'Dani Maker☆' //ubah aja
+global.owner = ['6288268184147','6288268184147'] // ubah aja pake nomor lu
+global.premium = ['62895324513343','6288268184147'] // ubah aja pake nomor lu
+global.packname = 'irwanbotz' // ubah aja
+global.ownerr = ['irwanbotz'] // ubaha aja
+global.author = 'irwanbotz' //ubah aja
 global.sessionName = './sessionye/haikal' //Gausaj Di Ubah
-global.prefa = ['','!','.',',','🐤','🗿'] // Gausah Mendingan 
+global.prefa = ['','!','.',',','💩','🗿'] // Gausah Mendingan 
 global.sp = '⭔' // Gausah Juga
 
 // Terserah
 global.mess = {
-    nsfw: '*Fitur NSFW tidak diaktifkan, chat admin grup supaya diaktifkan*_',
-    wait: '*Loading... Sabar Wibu*_',
+    nsfw: '*Fitur NSFW tidak diaktifkan, chat admin grup supaya diaktifkan (￣3￣)*_',
+    wait: '*Sabar bang Luding... *_',
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
-    bot: 'Fitur Khusus Pengguna Nomor Bot',    
+    bot: 'Fitur ini Khusus Pengguna Nomor Bot',    
 }
 //=================================================//
 //Gausah Di Apa2 in
@@ -58,7 +58,7 @@ global.f6 = 'application/vnd.android.package-archive'
 //=================================================//
 global.limitawal = {
     premium: "Infinity",
-    free: 100
+    free: 20
 }
 //=================================================//
 //Terserah Kalau Paham 
